@@ -1,0 +1,19 @@
+header { 
+background-color: #183C63;
+color: #FFFFFF;
+text-align: center;
+
+}
+
+main {
+    
+background-color: #183C63;
+color: #FFFFFF;
+}
+.titulo-blog { display: flex; 
+   align-items: center;
+    gap: 15px; 
+   color: rgb(255, 0, 0); 
+    margin: 0; 
+     } .titulo-blog img { width: 60px; 
+      height: auto;
